@@ -1,4 +1,4 @@
 archiso-gui
 ===========
 
-Evo/Lution GUI archiso build
+This is the archiso build for version 0.9-12a of Evo/Lution.
